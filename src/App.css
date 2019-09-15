@@ -23,6 +23,22 @@
   color: #61dafb;
 }
 
+.red{
+  background: #282c34;
+}
+
+button{
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+  background: purple;
+  border: 1px solid #fff;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
